@@ -1,4 +1,4 @@
 HEAD
-["Best school"]
+echo "Best school"
 >>>>>>> origin/update_script
 #!/bin/bash
