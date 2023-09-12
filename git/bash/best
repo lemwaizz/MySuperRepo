@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-echo"This school is so cool!"
-=======
-echo"Best school"
+HEAD
+["Best school"]
 >>>>>>> origin/update_script
 #!/bin/bash
